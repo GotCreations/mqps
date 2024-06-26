@@ -1,5 +1,5 @@
 {
-    "name": "gotcreations/php-mqtt-server",
+    "name": "gotcreations/mqps",
     "description": "MQTT Server implementation for PHP",
     "type": "library",
     "license": "MIT",
