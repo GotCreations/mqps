@@ -1,0 +1,22 @@
+{
+    "name": "gotcreations/php-mqtt-server",
+    "description": "MQTT Server implementation for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gotcreations\\PhpMqttServer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ander7agar",
+            "email": "ander7agar@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "ext-openswoole": "^22.0",
+        "openswoole/core": "^22.1"
+    }
+}
